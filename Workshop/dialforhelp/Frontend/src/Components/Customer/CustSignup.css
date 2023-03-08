@@ -1,0 +1,58 @@
+.dynamic-form{
+    background-color: lightgoldenrodyellow;
+    padding-top: 0.5%;
+    padding-left: 35%;
+    padding-bottom: 8.2%;
+    padding-right: 35%;
+    
+}
+
+.full{
+    padding-left: 20%;
+    padding-top: 20%;
+    padding-right: 20%;
+    padding-bottom: 20%;
+
+}
+
+input[type=text], input[type=password], input[type=email]{
+    background-color:whitesmoke;
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+    width: 100%;
+}
+
+
+input[type=text]:focus, input[type=password]:focus, input[type=email]:focus{
+    background-color: rgb(119, 229, 241);
+    border-radius: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+#color0{
+   color : red;
+}
+
+#color1{
+   color: red;
+}
+
+#color2{
+    color: green;
+}
+
+#color3{
+   color : yellow
+}
+
+#color4{
+   color : lightgreen
+}
+
+#color5{
+   color : orange
+}
+
+#colorw{
+   color : violet
+}
